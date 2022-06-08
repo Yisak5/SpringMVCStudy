@@ -39,3 +39,11 @@ COMMIT;
 --==>> 커밋 완료.
 
 
+
+--○ 리스트 조회 쿼리문 구성
+SELECT ID, NAME, TEL, EMAIL
+FROM TBL_MEMBERLIST;
+
+SELECT ID, NAME, TEL, EMAIL FROM TBL_MEMBERLIST
+;
+
