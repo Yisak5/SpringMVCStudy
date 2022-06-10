@@ -3,6 +3,7 @@
 	<item key="J2EE_EXPORT_OVERWRITE" value="false"/>
 	<item key="J2EE_EXPORT_SOURCE" value="true"/>
 	<list key="J2EE_IMPORT_null">
+		<item value="C:\SpringMVCStudy\mybatisWork03.war"/>
 		<item value="C:\Users\SIST\Desktop\mvc04.war"/>
 		<item value="C:\Users\SIST\Desktop\Finalproject.war"/>
 		<item value="C:\SpringMVCStudy\mvc04.war"/>
