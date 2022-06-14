@@ -1,3 +1,4 @@
+<%@page import="com.test.util.FileManager"%>
 <%@page import="java.io.File"%>
 <%@ page contentType="text/html; charset=UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
@@ -17,7 +18,7 @@
 	
 	// 파일 다운로드
 	out.clear();
-	boolean flag = 
+	boolean flag = FileManager.doFileDownload(saveFileName, originalFileName, savePath, response);
 	
 	
 %>
